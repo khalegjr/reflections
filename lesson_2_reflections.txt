@@ -9,8 +9,10 @@ What value do you think it offers?
     
     A área de preparação é uma área lógica, só existe no Git como sequência lógica para os arquivos, o diretório de trabalho é a pasta de arquivos no computador.
 
-How can you use the staging area to make sure you have one commit per logical
-change?
+How can you use the staging area to make sure you have one commit per logical change?
+(Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?)
+
+    Tendo certeza que há alterações significativas na comparação entre o diretório de trabalho e a área de preparação (diff sem argumentos), e entre a área de preparação e o commit mais recente (diff --staged)
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
