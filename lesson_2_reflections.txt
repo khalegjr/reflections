@@ -26,7 +26,13 @@ How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+(Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?)
+
+    O merge fundi dois branches, organizando os commits por hora de criação
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+(Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?)
+
+    Pergunta dificil. A mesclagem automática irá mostrar conflitos que você deverá resolver antes de concluir o merge, então, de certa forma, a mesclagem automática trabalha em conjunto com a manual, já que você deve resolver conflitos manualmente.
 
