@@ -14,10 +14,15 @@ How can you use the staging area to make sure you have one commit per logical ch
 
     Tendo certeza que há alterações significativas na comparação entre o diretório de trabalho e a área de preparação (diff sem argumentos), e entre a área de preparação e o commit mais recente (diff --staged)
 
-What are some situations when branches would be helpful in keeping your history
-organized? How would branches help?
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+(Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?)
+
+    Branches são uteis para fazer alterações significativas ou experimentais sem comprometer o código / funcionalidades principais. Cria uma "versão" onde posso fazer as alterações que desejo testar mantendo uma "versão master" com o código que quero manter.
 
 How do the diagrams help you visualize the branch structure?
+(Como os diagramas ajudam a visualizar a estrutura de branches?)
+
+    Facilita a visualização de quando foi criado um branche por ai vai.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
